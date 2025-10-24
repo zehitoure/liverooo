@@ -1,0 +1,20 @@
+{
+  "name": "liverooo",
+  "version": "1.0.0",
+  "description": "Liverooo! permet à des équipes de bureau de consulter des restaurants, créer des commandes\r collectives et respecter un budget.\r ## Lancer le projet (localement)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zehitoure/liverooo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zehitoure/liverooo/issues"
+  },
+  "homepage": "https://github.com/zehitoure/liverooo#readme"
+}
